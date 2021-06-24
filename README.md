@@ -1,4 +1,4 @@
-# SMCGUI
+# SMBGUI
 java GUI package
 
 Planned Objects:
